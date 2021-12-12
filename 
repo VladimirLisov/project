@@ -1,0 +1,42 @@
+[33mcommit 9861406eb9d1ca2d1427ffe2888668582fad0a98[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VladimirLisov <95357984+VladimirLisov@users.noreply.github.com>
+Date:   Sun Dec 12 14:37:44 2021 +0300
+
+    Create README.md
+
+[33mcommit cbc039f3cdf64acf8242f2727f8f0e41c0b4e39a[m
+Author: VladimirLisov <95357984+VladimirLisov@users.noreply.github.com>
+Date:   Sun Dec 12 14:36:18 2021 +0300
+
+    Delete README.md
+
+[33mcommit f1005bd45dd67807aba0c83818592fa661fd7ca8[m
+Merge: 289f42b 536bcb5
+Author: VlaimirLisov <vladimir.lisov.volga@gmail.com>
+Date:   Tue Dec 7 21:42:57 2021 +0300
+
+    Merge branch 'gui-branch' into main
+
+[33mcommit 536bcb5f28f496938977e73902a81c68e08964e5[m
+Author: VlaimirLisov <vladimir.lisov.volga@gmail.com>
+Date:   Tue Dec 7 21:41:18 2021 +0300
+
+    update git kraken
+
+[33mcommit 289f42ba98fc8475a83fd742e0e791795130b94b[m[33m ([m[1;33mtag: 1.0.0[m[33m, [m[1;32mfirst-feature[m[33m)[m
+Author: VladimirLisov <95357984+VladimirLisov@users.noreply.github.com>
+Date:   Sun Dec 5 19:10:24 2021 +0300
+
+    Update dev.md
+
+[33mcommit 295a41dde29ab93c1222ca6d1d8b264ade950868[m
+Author: VlaimirLisov <vladimir.lisov.volga@gmail.com>
+Date:   Sun Dec 5 19:02:34 2021 +0300
+
+    first dev commit
+
+[33mcommit 86dc36392ab8c43d71f559c3de8327d3967ffdc7[m
+Author: VladimirLisov <95357984+VladimirLisov@users.noreply.github.com>
+Date:   Sun Dec 5 18:14:47 2021 +0300
+
+    Initial commit
